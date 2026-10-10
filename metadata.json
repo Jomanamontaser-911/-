@@ -1,0 +1,7 @@
+{
+  "name": "Study Bestie - الذكاء الاصطناعي لطلاب الثانوية",
+  "description": "رفيقة المذاكرة الذكية لطلاب الثانوية المصرية - شروحات بالمصري المبسط، تلخيص الدروس، كويزات تفاعلية، وتنظيم جدول المذاكرة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
